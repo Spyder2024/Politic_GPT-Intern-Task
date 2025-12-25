@@ -1,4 +1,4 @@
-# AmbedkarGPT-Intern-Task
+# PoliticGPT-Intern-Task
 
 This repository contains my solution for the Kalpit Pvt Ltd AI Intern Hiring Assignment (Phase 1). It implements a local, command-line Q&A system using a Retrieval-Augmented Generation (RAG) pipeline. The system answers questions solely from the provided `speech.txt` (an excerpt from Dr. B. R. Ambedkar’s writing) — no internet or external APIs are used.
 
@@ -132,5 +132,6 @@ python -m pip install langchain langchain-community langchain-text-splitters chr
 
 
 For hiring evaluation purposes only.
+
 
 
